@@ -1,0 +1,12 @@
+c:\users\victorlaras\documents\visual studio 2015\Projects\SO\SO\bin\Debug\SO.exe.config
+c:\users\victorlaras\documents\visual studio 2015\Projects\SO\SO\bin\Debug\SO.exe
+c:\users\victorlaras\documents\visual studio 2015\Projects\SO\SO\bin\Debug\SO.pdb
+c:\users\victorlaras\documents\visual studio 2015\Projects\SO\SO\obj\Debug\SO.exe
+c:\users\victorlaras\documents\visual studio 2015\Projects\SO\SO\obj\Debug\SO.pdb
+C:\Users\victorlaras\Documents\Visual Studio 2015\Projects\SO\SO\obj\Debug\SO.csprojResolveAssemblyReference.cache
+C:\Users\Orlandol\Documents\GitHub\SO\SO\bin\Debug\SO.exe.config
+C:\Users\Orlandol\Documents\GitHub\SO\SO\obj\Debug\SO.exe
+C:\Users\Orlandol\Documents\GitHub\SO\SO\obj\Debug\SO.pdb
+C:\Users\Orlandol\Documents\GitHub\SO\SO\bin\Debug\SO.exe
+C:\Users\Orlandol\Documents\GitHub\SO\SO\bin\Debug\SO.pdb
+C:\Users\Orlandol\Documents\GitHub\SO\SO\obj\Debug\SO.csprojResolveAssemblyReference.cache
