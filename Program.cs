@@ -231,7 +231,7 @@ namespace SO
 
             foreach (var p in (from q in GetFiles() where q.ParentFolder.ToLower() == directory.ToLower() select q).ToList())
             {
-                Console.WriteLine(p.FileName);
+                Console.WriteLine(p.FileType.ToString() == "Folder" ? p.FileName + "\\f" : p.FileName + "\\d");
             }
         }
 
